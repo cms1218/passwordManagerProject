@@ -1,0 +1,1 @@
+This independent was created in order to practice password storing and encryption, as well as learning how to use Git by mimicking a professional workflow.
